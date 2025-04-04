@@ -7,12 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
+Dev Paul's Porfolio of Projects 
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
